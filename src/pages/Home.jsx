@@ -11,7 +11,7 @@ const Home = () => (
       <div 
         className="absolute inset-0 bg-cover bg-center"
         style={{
-          backgroundImage: 'url(https://images.unsplash.com/photo-1582653291997-079a1c04e5a1?auto=format&fit=crop&w=1800&q=80)',
+          backgroundImage: 'url(https://images.unsplash.com/photo-1613665813446-82a78c468a1d?auto=format&fit=crop&w=1800&q=80)',
           animation: 'zoom 20s infinite alternate'
         }}
       ></div>
@@ -71,7 +71,7 @@ const Home = () => (
         <div className="relative">
           {/* Large image - UK House Extension */}
           <img 
-            src="https://images.unsplash.com/photo-1604014056465-e1f4e8cfb533?auto=format&fit=crop&w=600&q=80" 
+            src="https://plus.unsplash.com/premium_photo-1663133721947-c0f8201fbc75?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
             alt="UK home extension project in Leeds" 
             className="w-full h-96 object-cover rounded-xl shadow-2xl animate-fade-in-right"
           />
@@ -79,16 +79,16 @@ const Home = () => (
           {/* Floating card elements */}
           <div className="absolute -bottom-10 -left-10 bg-white p-4 rounded-xl shadow-xl animate-float">
             <img 
-              src="https://images.unsplash.com/photo-1578683010236-d716f9a3f461?auto=format&fit=crop&w=300&q=80" 
-              alt="Modern British interior renovation" 
+              src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?auto=format&fit=crop&w=300&q=80" 
+              alt="UK construction worker in Leeds" 
               className="w-40 h-40 object-cover rounded-lg"
             />
           </div>
           
           <div className="absolute top-20 -right-6 bg-white p-4 rounded-xl shadow-xl animate-float-delayed">
             <img 
-              src="https://images.unsplash.com/photo-1556912173-3bb406ef7e95?auto=format&fit=crop&w=300&q=80" 
-              alt="Modern British kitchen renovation" 
+              src="https://plus.unsplash.com/premium_photo-1661500886480-6c97ae209ad3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+              alt="UK construction site with scaffolding" 
               className="w-48 h-32 object-cover rounded-lg"
             />
           </div>

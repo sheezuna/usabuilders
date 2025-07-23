@@ -4,26 +4,26 @@ const team = [
   {
     name: "John Smith",
     role: "Founder & Director",
-    img: "https://randomuser.me/api/portraits/men/32.jpg",
-    bio: "With over 25 years in construction, John founded Leeds Builders in 2005 with a vision to deliver quality craftsmanship with exceptional service.",
+    img: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=200&h=200&q=80",
+    bio: "With over 25 years in UK construction, John founded USABUILDERS in 2005 with a vision to deliver quality British craftsmanship with exceptional service.",
   },
   {
     name: "Sarah Johnson",
     role: "Project Manager",
-    img: "https://randomuser.me/api/portraits/women/44.jpg",
-    bio: "Sarah oversees all projects from concept to completion, ensuring timelines are met and clients are completely satisfied with our work.",
+    img: "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=200&h=200&q=80",
+    bio: "Sarah oversees all projects across Leeds, ensuring timelines are met and clients are completely satisfied with our work.",
   },
   {
     name: "Michael Brown",
     role: "Lead Builder",
-    img: "https://randomuser.me/api/portraits/men/65.jpg",
-    bio: "Michael leads our skilled construction team, bringing 15 years of experience and a keen eye for detail to every project we undertake.",
+    img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&h=200&q=80",
+    bio: "Michael leads our skilled construction team, bringing 15 years of experience in UK construction and a keen eye for detail to every project we undertake.",
   },
   {
     name: "Emma Wilson",
     role: "Interior Designer",
-    img: "https://randomuser.me/api/portraits/women/28.jpg",
-    bio: "Emma helps clients transform their spaces with creative interior design solutions that complement our building work perfectly.",
+    img: "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?auto=format&fit=crop&w=200&h=200&q=80",
+    bio: "Emma helps clients transform their spaces with creative interior design solutions that align with modern British aesthetics and complement our building work perfectly.",
   },
 ];
 
@@ -79,11 +79,11 @@ const About = () => (
       {/* Header */}
       <div className="text-center mb-16">
         <div className="inline-block px-3 py-1 bg-blue-100 text-blue-800 rounded-full font-medium mb-4">
-          About Leeds Builders
+          About {import.meta.env.VITE_COMPANY_NAME}
         </div>
         <h2 className="text-4xl md:text-5xl font-bold text-blue-900 mb-6">Building Leeds Since 2005</h2>
         <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-          Leeds Builders is a premier construction company serving Leeds and surrounding areas. We combine traditional craftsmanship with modern building techniques to deliver exceptional results for every client.
+          {import.meta.env.VITE_COMPANY_NAME} is a premier construction company serving Leeds and surrounding areas. We combine traditional British craftsmanship with modern building techniques to deliver exceptional results for every client.
         </p>
       </div>
       
@@ -92,8 +92,8 @@ const About = () => (
         <div className="w-full lg:w-1/2">
           <div className="relative">
             <img 
-              src="https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=800&q=80" 
-              alt="Leeds Builders Team" 
+              src="https://plus.unsplash.com/premium_photo-1661500886480-6c97ae209ad3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+              alt="UK Construction Team" 
               className="w-full h-auto rounded-2xl shadow-2xl"
             />
             <div className="absolute -bottom-8 -right-8 bg-yellow-500 text-blue-900 font-bold py-4 px-6 rounded-lg shadow-lg hidden md:block">

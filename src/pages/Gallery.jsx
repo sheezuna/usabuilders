@@ -10,16 +10,16 @@ const projects = [
     description: "A stunning rear extension adding valuable living space to a family home.",
     images: [
       {
-        src: "https://images.unsplash.com/photo-1613553507747-5f8d62ad5904?auto=format&fit=crop&w=800&q=80",
-        alt: "Modern Home Extension Front View"
+        src: "https://images.unsplash.com/photo-1605276373954-0c4a0dac5b12?auto=format&fit=crop&w=800&q=80",
+        alt: "Modern UK Home Extension Front View"
       },
       {
-        src: "https://images.unsplash.com/photo-1628744448840-b05ccb2f55cd?auto=format&fit=crop&w=800&q=80",
+        src: "https://images.unsplash.com/photo-1558442074-3c19857bc1dc?auto=format&fit=crop&w=800&q=80",
         alt: "Modern Home Extension Interior"
       },
       {
-        src: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80",
-        alt: "Modern Home Extension Kitchen"
+        src: "https://images.unsplash.com/photo-1556912172-45b7a8ba0138?auto=format&fit=crop&w=800&q=80",
+        alt: "British Modern Home Extension Kitchen"
       }
     ],
     featured: true
@@ -33,12 +33,12 @@ const projects = [
     description: "Converting unused attic space into a master bedroom with ensuite.",
     images: [
       {
-        src: "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=800&q=80",
-        alt: "Luxury Loft Conversion Interior"
+        src: "https://images.unsplash.com/photo-1618219740975-d40978bb7378?auto=format&fit=crop&w=800&q=80",
+        alt: "UK-Style Luxury Loft Conversion Interior"
       },
       {
-        src: "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?auto=format&fit=crop&w=800&q=80",
-        alt: "Luxury Loft Conversion Bathroom"
+        src: "https://images.unsplash.com/photo-1593604572626-8c79e4bc6dc8?auto=format&fit=crop&w=800&q=80",
+        alt: "UK Loft Conversion with Modern Bathroom"
       }
     ]
   },
@@ -51,12 +51,12 @@ const projects = [
     description: "Complete kitchen overhaul with custom cabinetry and island.",
     images: [
       {
-        src: "https://images.unsplash.com/photo-1556912173-46c336c7fd55?auto=format&fit=crop&w=800&q=80",
-        alt: "Contemporary Kitchen Renovation"
+        src: "https://plus.unsplash.com/premium_photo-1661500886480-6c97ae209ad3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        alt: "Contemporary British Kitchen Renovation"
       },
       {
-        src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=800&q=80",
-        alt: "Contemporary Kitchen Island"
+        src: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=800&q=80",
+        alt: "Modern UK Home Kitchen Island"
       }
     ],
     featured: true
@@ -70,12 +70,12 @@ const projects = [
     description: "Transforming an outdated office space into a modern work environment.",
     images: [
       {
-        src: "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=800&q=80",
-        alt: "Office Building Renovation"
+        src: "https://images.unsplash.com/photo-1606744888344-493238951221?auto=format&fit=crop&w=800&q=80",
+        alt: "UK Commercial Office Building Renovation"
       },
       {
-        src: "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=800&q=80",
-        alt: "Office Interior"
+        src: "https://images.unsplash.com/photo-1517502884422-41eaead166d4?auto=format&fit=crop&w=800&q=80",
+        alt: "Modern British Office Interior"
       }
     ]
   },
@@ -88,8 +88,8 @@ const projects = [
     description: "High-end bathroom renovation with walk-in shower and freestanding tub.",
     images: [
       {
-        src: "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?auto=format&fit=crop&w=800&q=80",
-        alt: "Luxury Bathroom Remodel"
+        src: "https://plus.unsplash.com/premium_photo-1661500886480-6c97ae209ad3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        alt: "UK Luxury Bathroom Remodel"
       }
     ]
   },
@@ -103,11 +103,11 @@ const projects = [
     images: [
       {
         src: "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?auto=format&fit=crop&w=800&q=80",
-        alt: "New Build Family Home"
+        alt: "UK New Build Family Home"
       },
       {
-        src: "https://images.unsplash.com/photo-1560184897-ae75f418493e?auto=format&fit=crop&w=800&q=80",
-        alt: "New Build Family Home Living Room"
+        src: "https://images.unsplash.com/photo-1542928658-22251e208ac1?auto=format&fit=crop&w=800&q=80",
+        alt: "British New Build Family Home Living Room"
       }
     ],
     featured: true
@@ -121,8 +121,8 @@ const projects = [
     description: "A beautiful garden room extension providing additional living space.",
     images: [
       {
-        src: "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=800&q=80",
-        alt: "Garden Room Addition"
+        src: "https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=800&q=80",
+        alt: "UK Garden Room Addition"
       }
     ]
   },
@@ -135,8 +135,8 @@ const projects = [
     description: "Complete interior fit-out for a new restaurant in Leeds city centre.",
     images: [
       {
-        src: "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?auto=format&fit=crop&w=800&q=80",
-        alt: "Restaurant Fit-Out"
+        src: "https://plus.unsplash.com/premium_photo-1661500886480-6c97ae209ad3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        alt: "UK Restaurant Fit-Out"
       }
     ]
   }

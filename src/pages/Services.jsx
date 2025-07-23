@@ -8,7 +8,7 @@ const services = [
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
       </svg>
     ),
-    img: "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=800&q=80",
+    img: "https://plus.unsplash.com/premium_photo-1661500886480-6c97ae209ad3?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     desc: "Expand your living space with seamless home extensions tailored to your needs. Our expert team handles everything from design to final touches.",
     features: ["Custom Design", "Planning Permission Support", "Structural Engineering", "Full Project Management"],
   },
@@ -19,7 +19,7 @@ const services = [
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
       </svg>
     ),
-    img: "https://images.unsplash.com/photo-1484101403633-562f891dc89a?auto=format&fit=crop&w=800&q=80",
+    img: "https://images.unsplash.com/photo-1543423924-b9f161af87e4?auto=format&fit=crop&w=800&q=80",
     desc: "Transform unused loft space into beautiful, functional rooms that add value to your property. From simple storage to luxury master suites.",
     features: ["Dormer Conversions", "Hip-to-Gable", "Mansard Conversions", "Skylight Installation"],
   },
@@ -30,7 +30,7 @@ const services = [
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
       </svg>
     ),
-    img: "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=800&q=80",
+    img: "https://images.unsplash.com/photo-1532323544230-7191fd51bc1b?auto=format&fit=crop&w=800&q=80",
     desc: "Upgrade your kitchen and bathroom with modern designs and quality finishes. From concept to completion, we'll create your perfect space.",
     features: ["Custom Cabinetry", "Luxury Fixtures", "Tiling & Flooring", "Smart Home Integration"],
   },
@@ -53,7 +53,7 @@ const services = [
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
       </svg>
     ),
-    img: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=800&q=80",
+    img: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=800&q=80",
     desc: "Reliable maintenance services to keep your property in top condition. From minor repairs to regular scheduled maintenance.",
     features: ["Property Inspections", "Emergency Repairs", "Painting & Decorating", "Garden & Exterior Work"],
   },
